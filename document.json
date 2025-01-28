@@ -1,0 +1,13 @@
+{
+    "_id": "65f8a1d3b1f9c45a887f1234",
+    "schema": {
+        "fields": {
+            "friends": "int",
+            "last_logged_on": "str"
+        }
+    },
+    "data": {
+        "friends": 42,
+        "last_logged_on": "2021-09-01T00:00:00"
+    }
+}
