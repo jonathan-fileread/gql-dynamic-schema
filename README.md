@@ -1,3 +1,14 @@
+# For Patrick and Speedy
+
+## Installing
+
+`pip install -r requirements.txt`
+
+## Running fastapi with gql
+
+`fastapi dev main2.py`
+
+## Data to use
 
 old record
 
