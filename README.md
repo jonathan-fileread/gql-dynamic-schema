@@ -3,6 +3,8 @@
 ## Installing
 
 `pip install -r requirements.txt`
+`python3 -m venv .`
+`source bin/activate`
 
 ## Running fastapi with gql
 
