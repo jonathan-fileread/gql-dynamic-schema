@@ -7,8 +7,11 @@
 ## Running fastapi with gql
 
 `fastapi dev main2.py`
+Call `http://127.0.0.1:8000/graphql` with `POST`, using gql input below.
 
 ## Data to use
+
+### Store each recordset within `document.json` - these are mongo queries that i have spliced out that will mimic dynamic changes Once the document.json has changed, edit the gql input below in your favorite API platform
 
 old record
 
