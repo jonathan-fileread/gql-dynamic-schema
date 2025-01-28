@@ -49,6 +49,8 @@ new record
 
 
 gql input
+
+
 `{
   getData {
     friends
@@ -58,6 +60,8 @@ gql input
 `
 
 new gql input
+
+
 `{
   getData {
     friends
