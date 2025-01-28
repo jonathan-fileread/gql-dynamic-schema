@@ -6,7 +6,7 @@
 
 ## Running fastapi with gql
 
-`fastapi dev main2.py`
+`fastapi dev main2.py` \
 Call `http://127.0.0.1:8000/graphql` with `POST`, using gql input below.
 
 ## Data to use
